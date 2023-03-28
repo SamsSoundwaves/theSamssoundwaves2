@@ -1,0 +1,80 @@
+a{
+    color:white;
+}
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+
+    background-color: rgba(0, 0, 0, 0.857);
+  }
+
+  h1{
+        text-align: start;
+    background-color: #fff;
+    box-shadow:
+      0 0 100px 60px #fff, 
+      0 0 100px 60px #f0f, 
+      0 0 140px 90px #0ff; 
+  }
+
+  .buttons{
+    margin: 10px;
+    background-color:aliceblue;
+    border:none;
+    padding: 10px 23px 17px 20px;
+    text-align: left;
+    text-decoration: underline;
+    display:inline-block;
+    font-size: 24px;
+    border-radius: 100%;
+  }
+
+  .buttons{
+    position: relative;
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 800;
+    color: black;
+    overflow: hidden;
+  }
+
+  .buttons{
+    background: linear-gradient(to right, #4B006E, white);
+  }
+
+  .buttons{
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+  }
+
+  .buttons{
+
+    transition: background-position 550ms ease;
+  }
+  
+  .buttons:hover {
+    background-position: 0% 100%;
+  }
+
+  .buttons{
+    top: -710px;
+  }
+  .fillform{
+    position:absolute;
+    top: 200px;    
+    right:20px;    
+  }
+
+
+
+  
+
